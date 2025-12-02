@@ -100,6 +100,52 @@ body {
   color: #FFFFFF;
 }
 
+/* HOW IT WORKS SECTION */
+.how-it-works {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.how-it-works h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  color: #22D3EE;
+  text-shadow: 0 0 8px #22D3EE;
+}
+
+.steps {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.step {
+  background-color: #121826;
+  padding: 20px;
+  border-radius: 15px;
+  width: 220px;
+  box-shadow: 0 0 10px #22D3EE;
+}
+
+.step h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #FB7185;
+  margin-bottom: 10px;
+}
+
+.step p {
+  font-size: 0.95rem;
+  color: #FFFFFF;
+}
+
+/* CTA SECTION */
+.cta {
+  padding: 60px 20px;
+  text-align: center;
+}
+
 /* FOOTER */
 footer {
   padding: 20px;
